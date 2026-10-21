@@ -1,0 +1,5 @@
+exports/*
+!exports/thumbs/
+backup_A3/
+*.mp4
+__pycache__/
